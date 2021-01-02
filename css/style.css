@@ -33,8 +33,8 @@
 /* Dark theme  */
 .darktheme {
   --accent: #186efd60;
-  --bg: #372862; /*#1e1f21;*/
-  --sbg: #231940; /*2c2d31*/
+  --bg: #2e2a3b; /*#1e1f21;*/
+  --sbg: #29213f; /*2c2d31*/
   --fg: #d8dee9;
   --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
 }
